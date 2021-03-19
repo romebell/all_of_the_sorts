@@ -1,5 +1,4 @@
-# all_of_the_sorts
-All of the sorts
+# All of the Sorts
 
 ```py
 # Implementing Quick Sort
